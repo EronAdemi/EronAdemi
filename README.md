@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks such as React**
 
-- 👨‍💻 All of my projects are available at [Eronademi.netlify.app](https://eronademi.netlify.app/)
+- 👨‍💻 All of my projects are available at [Eronademi.netlify.app](https://eronademi.netlify.app/#projects)
 
 - 💬 Ask me about **HTML, CSS, JS**
 
